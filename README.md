@@ -56,3 +56,33 @@ Transfer motor rotation into robot motion.
 
 #### • Robot Chassis
 Provides the mechanical structure that carries and supports all components.
+
+### Monitoring
+
+#### • Camera Module
+Captures live video for surveillance and monitoring.
+
+#### • Waveshare Screen
+provide a local display for monitoring, testing, and system visualization directly on the robot.
+
+#### • User Interface (UI)
+Displays the live camera feed, object detection output, and system alerts to the user.
+
+### Power
+
+#### • Battery Pack
+Supplies power to the whole robot system
+
+#### • Voltage Regulator
+Converts the battery voltage to suitable levels for components such as the Arduino, Raspberry Pi, sensors.
+
+#### • Toggle Switch
+Activates or deactivates the Arduino control code during operation.
+
+#### • Power Distribution Wiring
+Distributes electrical power to motors, sensors, and other modules.
+
+### Communication
+
+#### • Arduino–Raspberry Pi Communication
+Allows coordination of work between low-level control and high-level processing
