@@ -44,3 +44,15 @@ It reads sensors, controls the motors, handles obstacle avoidance logic
 It handles camera streaming, computer vision processing, and communication with the user interface.
 
 ### Actuation
+
+#### • DC Motors
+Provide the main movement of the robot, allowing it to move forward, backward, and turn.
+
+#### • Motor Driver
+controls motors direction and speed.
+
+#### • Wheels
+Transfer motor rotation into robot motion.
+
+#### • Robot Chassis
+Provides the mechanical structure that carries and supports all components.
