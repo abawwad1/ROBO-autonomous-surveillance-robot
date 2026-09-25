@@ -20,13 +20,9 @@ The main features of the project are:
 * Monitor the robot's movement using an IMU to detect stuck conditions.
 * Integrate Arduino and Raspberry Pi for low-level control and high-level processing.
 
-##🧠 System Architecture and Components
+## 🧠 System Architecture and Components
 
 The autonomous surveillance robot is designed as an integrated system consisting of several functional groups. Each group is responsible for a specific task such as sensing, processing, movement, monitoring or power supply
-
-## 🧠 System Architecture
-
-The robot is built around two main processing units: a Raspberry Pi 4 and an Arduino Uno. Each controller is responsible for a different level of the system.
 
 ### Sensing
 #### Ultrasonic Sensors
