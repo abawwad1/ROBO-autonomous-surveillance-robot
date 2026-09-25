@@ -27,13 +27,13 @@ The autonomous surveillance robot is designed as an integrated system consisting
 ### Sensing
 
 #### Ultrasonic Sensors
-    used for obstacle detection and collision avoidance.
+used for obstacle detection and collision avoidance.
     
 #### Flame Sensor
-  	Detects the presence of flame or fire in front of or near the robot.
+  Detects the presence of flame or fire in front of or near the robot.
 
 #### IMU Sensor / Gyroscope
-    Detects motion changes and acceleration variations to determine whether the robot is moving normally or stuck.
+Detects motion changes and acceleration variations to determine whether the robot is moving normally or stuck.
 
 ### Processing
 
