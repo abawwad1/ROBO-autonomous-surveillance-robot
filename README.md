@@ -26,19 +26,21 @@ The autonomous surveillance robot is designed as an integrated system consisting
 
 ### Sensing
 
-#### Ultrasonic Sensors
+#### • Ultrasonic Sensors
 used for obstacle detection and collision avoidance.
     
-#### Flame Sensor
+#### • Flame Sensor
 Detects the presence of flame or fire in front of or near the robot.
 
-#### IMU Sensor / Gyroscope
+#### • IMU Sensor / Gyroscope
 Detects motion changes and acceleration variations to determine whether the robot is moving normally or stuck.
 
 ### Processing
 
-#### Arduino Uno (The muscle) 
+#### • Arduino Uno (The muscle) 
 It reads sensors, controls the motors, handles obstacle avoidance logic
 
-#### Raspberry Pi (the brain)
+#### • Raspberry Pi (the brain)
 It handles camera streaming, computer vision processing, and communication with the user interface.
+
+### Actuation
