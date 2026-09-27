@@ -107,6 +107,9 @@ When an abnormal movement condition is detected, the robot perform a turning aro
 A user interface was developed to provide the user with the remote monitoring capabilities
 
 The interface allows the user to:
+
 • Monitor the live camera stream.
+
 • Receive system alerts.
+
 • Monitor important robot conditions
