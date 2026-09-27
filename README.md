@@ -92,3 +92,7 @@ Allows coordination of work between low-level control and high-level processing
 
 The robot operates using a continuous closed-loop strategy that combines movement, sensing, and monitoring. During normal operation, the robot moves forward while the ultrasonic sensors continuously measure the distance to nearby obstacles. The front ultrasonic sensor uses a safety threshold of 50 cm, allowing the robot to stop early enough before collision and providing sufficient space for turning.
 When an obstacle is detected within the threshold distance, the robot stops and evaluates the available space on the right and left sides. It then selects the direction with the greater free space and starts turning. The turning process is controlled using a smart strategy, where the robot continues turning until the side ultrasonic sensor reads approximately the same distance previously measured by the front sensor, with a tolerance of ± 3 cm. This allows more controlled turning compared with using a fixed turning time only. While the robot is moving, the camera continuously captures live video and streams it to the user interface
+
+## 🔥 Flame Detection System
+
+a flame sensor and buzzer were added to introduce a safety and emergency response feature. The system was programmed so that when the robot detects a flame, it immediately stops, activates the alarm, and sends an alert to the user interface. The robot does not continue moving until the user gives permission through the interface. This feature improves operational safety
