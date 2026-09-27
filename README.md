@@ -96,3 +96,17 @@ When an obstacle is detected within the threshold distance, the robot stops and 
 ## 🔥 Flame Detection System
 
 a flame sensor and buzzer were added to introduce a safety and emergency response feature. The system was programmed so that when the robot detects a flame, it immediately stops, activates the alarm, and sends an alert to the user interface. The robot does not continue moving until the user gives permission through the interface. This feature improves operational safety
+
+## 🧭 IMU Based Movement
+
+An IMU / gyroscope is used to monitor the robot's movement and detect situations where the robot may become stuck.
+When an abnormal movement condition is detected, the robot perform a turning around to improve operational effiency
+
+## 🖥️ User Interface
+
+A user interface was developed to provide the user with the remote monitoring capabilities
+
+The interface allows the user to:
+• Monitor the live camera stream.
+• Receive system alerts.
+• Monitor important robot conditions
