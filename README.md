@@ -121,3 +121,6 @@ The interface allows the user to:
 
 ### System Architecture
 ![Robot architecture](images/Robot_architecture.jpeg)
+
+### User Interface
+![User Interface](images/User_interface.jpeg)
