@@ -113,3 +113,7 @@ The interface allows the user to:
 • Receive system alerts.
 
 • Monitor important robot conditions
+
+## 📷 Project Photos
+
+![Robot Prototype](images/Project_Prototype.jpg)
