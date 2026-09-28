@@ -118,3 +118,6 @@ The interface allows the user to:
 
 ### Robot Prototype
 ![Robot Prototype](images/Model_Photo.jpeg)
+
+### System Architecture
+![Robot architecture](images/Robot_architecture.jpeg)
