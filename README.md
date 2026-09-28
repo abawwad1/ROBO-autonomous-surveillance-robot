@@ -123,4 +123,4 @@ The interface allows the user to:
 ![Robot architecture](images/Robot_architecture.jpeg)
 
 ### User Interface
-![User Interface](images/User_interface.jpeg)
+![User Interface](images/User_interface.png)
