@@ -116,4 +116,5 @@ The interface allows the user to:
 
 ## 📷 Project Photos
 
+### Robot Prototype
 ![Robot Prototype](images/Model_Photo.jpeg)
